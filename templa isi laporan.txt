@@ -22,3 +22,8 @@ Pen.io
 Tumblr.com
 Livejournal.com
 Ghost.org
+
+pratek
+BLogger
+Wordpress
+
